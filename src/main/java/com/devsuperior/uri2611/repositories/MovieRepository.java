@@ -1,6 +1,6 @@
 package com.devsuperior.uri2611.repositories;
 
-//INNER JOIN ou JOIN - Quando você só quer registros que têm correspondência nas duas tabelas
+//INNER JOIN ou JOIN - Quando você só quer registros que têm correspondência nas duas tabelas ao mesmo tempo
 //LEFT JOIN: Quando você quer manter todos os registros da tabela principal, mesmo se não houver correspondência na outra
 import java.util.List;
 
